@@ -10,7 +10,11 @@ The goal of this project is to provide a smooth interactive experience in the br
 
 After deploying with GitHub Pages:
 
+<<<<<<< Updated upstream
 https://DavidHMoura.github.io/rubiks-web/
+=======
+https://davidhmoura.github.io/rubiks-web/
+>>>>>>> Stashed changes
 
 ---
 
