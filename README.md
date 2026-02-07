@@ -10,7 +10,7 @@ The goal of this project is to provide a smooth interactive experience in the br
 
 After deploying with GitHub Pages:
 
-https://SEU_USUARIO.github.io/rubiks-web/
+https://davidhmoura.github.io/rubiks-web/
 
 ---
 
